@@ -17,7 +17,7 @@ public class Main {
         dows.add("Sat");
         dows.add("Sun");
         int storeNum = 2048;
-        int numWeeks = 4;
+        int numWeeks = 8;
 
         HourlySalesReader hourlySalesReader = new HourlySalesReader();
         HourlySalesWriter writer = new HourlySalesWriter();
